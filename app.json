@@ -15,6 +15,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "react-native-demo",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
